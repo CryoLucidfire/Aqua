@@ -1,0 +1,1 @@
+[null,{"name":"MemberJoin","temp":"member","event-type":"6","actions":[{"channel":"4","varName":"","message":"You can call me \"Goddess\" if you like, but when you can, call me \"Aqua,\" \nso we don't cause a commotion. Anyways, Welcome ${tempVars(\"member\")} to the\nserver! Make sure you check the rules and what not.","storage":"0","varName2":"","name":"Send Message"}]}]
